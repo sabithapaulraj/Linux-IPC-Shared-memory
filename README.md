@@ -162,6 +162,8 @@ int main() {
 
 ![image](https://github.com/sabithapaulraj/Linux-IPC-Shared-memory/assets/118343379/77d0325c-1f45-46da-8359-43f7a1e76e97)
 ![image](https://github.com/sabithapaulraj/Linux-IPC-Shared-memory/assets/118343379/e088a9f7-0737-4ea1-be9a-5ffaa063c876)
+![image](https://github.com/sabithapaulraj/Linux-IPC-Shared-memory/assets/118343379/dd067338-3b95-4e55-b78b-2b8e1ee83e4f)
+
 
 
 
